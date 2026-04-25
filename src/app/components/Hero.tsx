@@ -50,7 +50,7 @@ export default function Hero() {
             fontWeight: "300"
           }}
         >
-          Feliz aniversáriode namoro meu amor! Quase 4 anos juntos.
+          Feliz aniversário de namoro meu amor! Quase 4 anos juntos.
         </motion.p>
 
         <motion.button
