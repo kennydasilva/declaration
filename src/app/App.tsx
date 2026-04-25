@@ -9,6 +9,7 @@ import SpecialMessage from "./components/SpecialMessage";
 import OurFuture from "./components/OurFuture";
 import FinalSection from "./components/FinalSection";
 import Footer from "./components/Footer";
+import { Analytics } from "@vercel/analytics/react";
 
 export default function App() {
   return (
@@ -24,6 +25,7 @@ export default function App() {
       <OurFuture />
       <FinalSection />
       <Footer />
+      <Analytics />
     </div>
   );
 }
